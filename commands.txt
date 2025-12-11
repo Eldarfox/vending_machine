@@ -1,0 +1,9 @@
+git clone git@github.com:Eldarfox/vending_machine.git
+git checkout -b home_work_25
+git add .
+git commit -m "add universal interface and remake CoinAcceptor"
+git add .
+git commit -m "change AppRunner , and logic of checking.
+i have done task but i cant commit for 5 times bc i just work with 1 file . for what should I commit every step in 1 file"
+git add .
+git commit -m "add commands.txt"
