@@ -1,10 +1,10 @@
 package model;
 
-public class CoinAcceptor implements Payment {
+public class MoneyAcceptor implements Payment {
 
     private int amount;
 
-    public CoinAcceptor(int initialAmount) {
+    public MoneyAcceptor(int initialAmount) {
         this.amount = initialAmount;
     }
 
